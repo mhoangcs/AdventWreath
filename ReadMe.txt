@@ -35,8 +35,8 @@ HOW TO USE:
 Make sure jQuery 1.11.1+ is installed first.
 
 For websites:
-1.	Upload the "advent" folder to the root directory of your site.
-2.	Add this <script> reference right before the closing </body> tag of your HTML page:
+1.  Upload the "advent" folder to the root directory of your site.
+2.  Add this <script> reference right before the closing </body> tag of your HTML page:
 	<script src="advent/adventWreath.js"></script>
 (You may need to change the src URL if your page is not in the root directory.)
 3.  Use this image tag as a placeholder for the wreath - the width and style are optional, but the class 
@@ -44,7 +44,7 @@ For websites:
 <img class="adventWreath" width="200px" style="display: block; margin: 0 auto;" />
  
 For blogs:
-1.	Upload the six wreath images to your blog or photo hoster.  
+1.  Upload the six wreath images to your blog or photo hoster.  
 2.  Open the adventWreath.js in a text editor, like Notepad.  Replace the image URLs with the direct links to your 
 hosted images:
 	if (currentDate < adventFirst) {
